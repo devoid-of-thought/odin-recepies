@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #13bb83;
+}
+div.tit{
+     width: 200px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #FFCE6B;
+}
+h1 {
+    text-align: center;
+}
+div.menu{
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 100px;
+    background-color: #ffaef8;
+}
+ol.menu-list{
+    display: inline-block;
+    text-align: left;
+}
+img {
+    height: 500px;
+    width: auto;
+    float: left;
+    margin: 0 100px 50px 0;
+}
+.ingredients {
+    float: right;
+}
+.instructions {
+    float: left;
+}
