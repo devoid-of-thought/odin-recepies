@@ -1,6 +1,6 @@
 # Recipe Website
 
-Recipe website made for Project Odin. 
+Recipe website made for [Project Odin](https://www.theodinproject.com/lessons/foundations-recipes). 
 
 ## Features
 
