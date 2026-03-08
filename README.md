@@ -15,3 +15,7 @@ And three recipes:
 - Gyoza
 
 ![Recipe Gyoza](./photos/gyoza_website.png)
+
+## Live preview
+
+To preview website live click this [Link](https://devoid-of-thought.github.io/odin-recepies/)
